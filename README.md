@@ -8,6 +8,6 @@
 
 𝙴𝚏𝚏𝚎𝚌𝚒𝚎𝚗𝚝 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢
 -------------------------------
-To view my machine learning work, type - machine:   
-To view my cyber security work, type - cyber:   
+To view my machine learning work, type ------------> machine:   
+To view my cyber security work, type ------------> cyber:   
 
