@@ -4,3 +4,6 @@
 - 📫 How to reach me: ....
 - ⚡ Fun fact: I like sports.
 
+To view my machine learning work, type - machine:   
+To view my cyber security work, type - cyber:   
+
