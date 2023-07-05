@@ -4,4 +4,3 @@
 - 📫 How to reach me: ....
 - ⚡ Fun fact: I like sports.
 
-
