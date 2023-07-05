@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I like sports.
 
 
-𝙴𝚏𝚏𝚎𝚌𝚒𝚎𝚗𝚝 r𝚎𝚙o 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢
---------------------------
+𝙴𝚏𝚏𝚎𝚌𝚒𝚎𝚗𝚝 r𝚎𝚙ository 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢
+-------------------------------
 To view my machine learning work, type - machine:   
 To view my cyber security work, type - cyber:   
 
