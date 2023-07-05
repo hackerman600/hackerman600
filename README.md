@@ -10,7 +10,7 @@
 -------------------------------
 To view my machine learning work, type <------------> machine-learning : into "Find a repository":   
 To view my cyber security work, type <------------> cyber : into "Find a repository":
-To view my miscellaneous work, type ------------> other : into "Find a repository":
+
 
 
 
